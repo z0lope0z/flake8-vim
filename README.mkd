@@ -4,10 +4,13 @@ Flake8-vim is a Vim plugin that checks python sources for errors. It's based on
 _pylint-mode_ plugin by Kirill Klenov.
 
 ## Installation
+
 ### Requirements
+Install required files:
+
     pip install autopep8
     pip install flake8
-    git clone --recursive https://github.com/andviro/flake8-vim.git
+    
 ### Manual installation
 
 Clone plugin repository using Git:
